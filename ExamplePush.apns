@@ -1,0 +1,11 @@
+{
+	"aps": {
+		"alert": {
+			"title": "Push Notifications Title",
+			"body": "Push Notifications body"
+		},
+		"sound": "default",
+		"badge": 1,
+		"category": "SOME_CATEGORY"
+	}
+}
